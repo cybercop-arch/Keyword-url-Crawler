@@ -70,3 +70,23 @@ Use `url_validator.py` to check which of the collected URLs return a status code
 🧪 Example Workflow
 --python keyword_crawler.py > raw_urls.txt
 --cat raw_urls.txt | python url_validator.py
+
+📌 Notes
+◇ This crawler is not JavaScript-aware. It only extracts static HTML links.
+
+◇ Avoid crawling large or protected websites excessively to prevent being blocked.
+
+◇ For ethical use only: Do not crawl private or rate-limited websites without permission.
+---
+
+🔐 Disclaimer
+This tool is intended for educational and ethical use only. Ensure you have permission before crawling any external site.
+
+🙋‍♀️ Author
+Samiksha
+ Cybersecurity & Forensics Student | Developer | Ethical Hacking Enthusiast
+
+🤝 Contributing
+Pull requests, ideas, and suggestions are welcome!
+
+---
