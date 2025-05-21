@@ -1,7 +1,8 @@
 # KeywordCrawler
 
-**KeywordCrawler** is a lightweight Python-based recursive crawler built for **penetration testers**, **recon enthusiasts**, and **bug bounty hunters**. It crawls web pages from a target URL and collects all URLs that match a specified keyword—ideal for finding endpoints, subpaths, or areas of interest within a scope.
+A code that would get us all the visited and not visited urls of a particular domain and the keyword we pass will help us in finding correct and related domains which will act as potential targets for us!
 
+**KeywordCrawler** is a lightweight Python-based recursive crawler built for **penetration testers**, **recon enthusiasts**, and **bug bounty hunters**. It crawls web pages from a target URL and collects all URLs that match a specified keyword—ideal for finding endpoints, subpaths, or areas of interest within a scope.
 ---
 
 ## 🚀 Features
